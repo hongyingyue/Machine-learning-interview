@@ -228,3 +228,4 @@ class DenoiseDiffusion:
 - [pytorch-stable-diffusion](https://github.com/hkproj/pytorch-stable-diffusion)
 - [Diffusion学习路径记录（2023年） - Kylin的文章 - 知乎](https://zhuanlan.zhihu.com/p/605973097)
 - [深入浅出完整解析Stable Diffusion（SD）核心基础知识 - Rocky Ding的文章 - 知乎](https://zhuanlan.zhihu.com/p/632809634)
+- [Coding a Multimodal (Vision) Language Model from scratch in PyTorch](https://www.youtube.com/watch?v=vAmKB7iPkWw)

@@ -1,5 +1,8 @@
 # 设计Youtube
 
+## 1. requirements
+
+
 ## 视频存储
 
 - 海量用户 海量视频

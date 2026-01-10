@@ -3,6 +3,7 @@
 - 马尔可夫过程：解决序列决策问题，理解状态之间的转移概率
 - 目标：reward最大化。需要有更好的policy选择action, 通过让agent获得状态转移概率
 - exploration和exploitation的平衡
+- off-policy or on-policy
 - Q-learning，DQN，TRPO, PPO, soft actor critic
 
 ## 基本概念

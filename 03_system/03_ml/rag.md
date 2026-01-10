@@ -43,6 +43,8 @@
 - retrieval
   - 与[search技术](./search_engine.md)类似
 - generation
+- Other optional component
+  - router, rewriter, reranker
 
 ![](../../.github/assets/03ml-rag.jpeg)
 

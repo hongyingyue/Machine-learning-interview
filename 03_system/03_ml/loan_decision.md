@@ -118,3 +118,4 @@ binary classification, multi class classification or multi label classification
 - [复杂风控场景下，如何打造一款高效的规则引擎](https://tech.meituan.com/2020/05/14/meituan-security-zeus.html)
 - [Build and Deploy a Real Time ML System](https://paulabartabajo.substack.com/p/implementing-a-real-time-ml-system)
 - [Let's build another Real Time ML System](https://www.realworldml.net/blog/let-s-build-a-real-time-ml-system-2)
+- https://eng.lyft.com/real-time-spatial-temporal-forecasting-lyft-fa90b3f3ec24

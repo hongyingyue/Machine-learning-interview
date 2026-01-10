@@ -16,3 +16,4 @@
 - [蘑菇街首页推荐视频流——增量学习与wide&deepFM实践（工程+算法） - 琦琦的文章 - 知乎](https://zhuanlan.zhihu.com/p/212647751)
 - [支持在线模型更新的大型推荐系统](https://openmlsys.github.io/chapter_recommender_system/case_study.html)
 - https://github.com/online-ml/river
+- [Building the incremental and online training platform at LinkedIn](https://www.linkedin.com/blog/engineering/infrastructure/incremental-and-online-training-platform-at-linkedin)

@@ -168,6 +168,7 @@ TCP
 - [youtube-System Design Interview](https://www.youtube.com/@SystemDesignInterview)
 - [youtube-System Design Guru](https://www.youtube.com/@newgpu-sys-design)
 - [一篇文章解决所有system design面试](https://www.1point3acres.com/bbs/thread-559285-1-1.html)
+- [猴子也能懂的系统设计套路](https://www.1point3acres.com/bbs/thread-776466-1-1.html)
 
 **扩展**
 

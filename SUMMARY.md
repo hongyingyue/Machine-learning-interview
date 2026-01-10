@@ -413,6 +413,7 @@
     - [有害内容检测](03_system/03_ml/harmful_content_detection.md)
     - [大模型RAG](03_system/03_ml/rag.md)
     - [大模型Agent](03_system/03_ml/agent.md)
+    - [Copilot](03_system/03_ml/copilot.md)
     - [信贷风控](03_system/03_ml/loan_decision.md)
     - [朋友推荐](03_system/03_ml/friend_recommedation.md)
     - [去重复性/版权检测](03_system/03_ml/deduplicate_detection.md)

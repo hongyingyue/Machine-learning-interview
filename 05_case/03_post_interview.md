@@ -16,6 +16,11 @@
 - [办公室政治-全是私货](https://www.1point3acres.com/bbs/thread-1031902-1-1.html)
 - [中厂Director讲讲我提拔manager的经验](https://www.1point3acres.com/bbs/thread-1031943-1-1.html)
 
+## 3. Code
+- [Design Doc](https://github.com/mercari/production-readiness-checklist/blob/master/docs/references/design-doc-template.md)
+- [Google Engineering Practices Code Review](https://google.github.io/eng-practices/review/reviewer/standard.html)
+
+
 ## Reference
 
 - [Shift-AI-models-to-real-world-products](https://github.com/lonelygo/Shift-AI-models-to-real-world-products)

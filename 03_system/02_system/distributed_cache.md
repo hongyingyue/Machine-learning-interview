@@ -2,6 +2,10 @@
 
 > 缓存服务器常见的有Memcached和Redis，Redis更轻量级，适用小数据，比如Json/String。Memcached更适用大文件，比如短视频
 
+
+## 1. requirements
+
+
 ## Reference
 
 - [https://www.infoq.com/articles/netflix-global-cache/](https://www.infoq.com/articles/netflix-global-cache/)

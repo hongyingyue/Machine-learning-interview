@@ -89,6 +89,8 @@ graph based prediction
 
 ## 8. monitoring & maintenance
 
+- statistical metric和business metric
+
 ## reference
 
 - [大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html)

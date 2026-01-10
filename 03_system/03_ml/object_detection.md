@@ -113,6 +113,7 @@ Data Pipeline                Model Registry         NMS/Filtering
 
 - 过杀和漏检：基于遗传算法的帕累托优化
 
+
 ## Reference
 
 - [仪表识别](https://github.com/hjptriplebee/meterReader)
@@ -124,3 +125,5 @@ Data Pipeline                Model Registry         NMS/Filtering
 - [通用目标检测开源框架YOLOv6在美团的量化部署实战](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html)
 - [基于多模态信息抽取的菜品知识图谱构建](https://mp.weixin.qq.com/s/0isxFC4iVrMuNseFil7xRQ)
 - [美团视觉GPU推理服务部署架构优化实践](https://tech.meituan.com/2023/02/09/inference-optimization-on-gpu-by-meituan-vision.html)
+- [Binance P2P’s Invisible Guardians: Using Computer Vision to Detect Fraud](https://www.binance.com/en/blog/tech/7256282002014933080)
+- 

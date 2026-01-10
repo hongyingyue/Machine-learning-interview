@@ -264,6 +264,7 @@
 - 模型更新策略, retrain plan
   - 按天增量训练，实时训练(在线学习)，或者 在线学习+天级增量结合
   - embedding的更新
+    - [推荐系统embedding过大如何压缩一下？最近正在解决这个问题？ - Jesper的回答 - 知乎](https://www.zhihu.com/question/522006535/answer/2836825253)
   - 全量更新：可以每天更新一次，shuffle, 更新ID embedding 和全连接层，1 epoch。每次更新的还是上一天的全量的模型更新，而不是增量
   - 增量更新：不停做，可以几十分钟更新一次，online learning只更新ID embedding参数, 尽量实时追踪用户兴趣。但其实是有偏的
     - Real-time Logging
@@ -280,8 +281,8 @@
 - E&E
   - embedding: 特征转化为可以学习的向量，模糊查找
   - embedding in sequence: 共现
-- 多任务
-- 多场景
+- 多任务学习
+- 多场景学习 (multi-domain/multi-scenario/multi-channel)
   - 不同用户群体（如新老用户）、APP不同频道模块、不同客户端等
 
 ## Reference

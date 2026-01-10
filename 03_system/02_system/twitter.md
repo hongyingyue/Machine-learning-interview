@@ -2,6 +2,8 @@
 
 tweets/followers system
 
+## 1. requirements
+
 ## news feed
 
 - celebrity

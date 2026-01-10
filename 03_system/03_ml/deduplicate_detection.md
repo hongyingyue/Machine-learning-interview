@@ -108,6 +108,7 @@ Scaling Strategy:
 - Number of detected duplicates
 - Copyright violation detection rate
 
+
 ## Reference
 
 - [Introduction to Facebook AI Similarity Search (Faiss)](https://www.pinecone.io/learn/series/faiss/faiss-tutorial/)
@@ -116,3 +117,6 @@ Scaling Strategy:
 - [美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html)
 - [MIND TensorFlow serving 部署预测用户embedding - 亓逸的文章 - 知乎](https://zhuanlan.zhihu.com/p/486282241)
 - [Using machine learning to index text from billions of images](https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images)
+- [How Shopify improved consumer search intent with real-time ML](https://shopify.engineering/how-shopify-improved-consumer-search-intent-with-real-time-ml)
+- https://huggingface.co/blog/dedup
+- 

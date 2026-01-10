@@ -1,5 +1,8 @@
 # 聊天系统
 
+## 1. requirements
+
+
 ## Reference
 
 - [现代IM系统中的消息系统架构 - 架构篇](https://developer.aliyun.com/article/698301?spm=a2c6h.13262185.profile.9.4ee36b1bVFt5Ee)

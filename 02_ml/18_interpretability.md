@@ -50,6 +50,10 @@ def permutation_importances(model, X, y, metric):
     return np.array(imp)
 ```
 
+- NN
+  - Captum: Model Interpretability for PyTorch
+
+
 ## 参考
 
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/intro.html)
